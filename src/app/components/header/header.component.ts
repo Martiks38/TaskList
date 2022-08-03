@@ -13,6 +13,6 @@ export class HeaderComponent implements OnInit {
   ngOnInit(): void {}
 
   toggleAddTask() {
-    console.log('hi!');
+    console.log(1 + 1);
   }
 }
