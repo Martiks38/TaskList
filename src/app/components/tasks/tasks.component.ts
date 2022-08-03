@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { TASKS } from 'src/app/mock-tasks';
 
+import { TASKS } from 'src/app/mock-tasks';
 import { Task } from 'src/app/Task';
 
 @Component({
